@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 type in some stuff 
 some more changes
 more changes, I see
@@ -6,3 +7,6 @@ oh no, new branches and new commits
 =======
 I did it wrong, so I am doing it again
 >>>>>>> milkshake-flavours
+=======
+booya
+>>>>>>> history
